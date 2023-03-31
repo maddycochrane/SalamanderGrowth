@@ -3,4 +3,4 @@ This repository holds the novel code to model individual growth and estimate age
 
 Also in this repository is the modified code from Tenan et al. 2014 and Sacarro et al. 2020 to estimate population growth rates for stream salamanders using a reverse-time Pradel model. 
 
-This code was used to analyze data in "Individual and population growth rates decline with watershed area in a stream salamander." 
+This code was used to analyze data in "Individual growth rates and size at metamorphosis increase with watershed area in a stream salamander." 
